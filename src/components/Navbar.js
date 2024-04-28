@@ -85,7 +85,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://github.com/Laadnani/Portfolio_web"
+                href="https://github.com/Laadnani"
                 target="_blank"
                 rel="noreferrer"
               >
