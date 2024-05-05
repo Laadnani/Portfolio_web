@@ -39,7 +39,7 @@ function Projects() {
               title="Saas template"
               description="A CRM made with react to ease the work of small to medium sized companies and freelancers. It can be customized to fit the needs of multiple categories of companies"
               ghLink="https://github.com/Laadnani/react_saas_temp"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://saas-laadnani.netlify.app/"
             />
           </Col>
         </Row>
